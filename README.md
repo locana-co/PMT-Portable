@@ -1,7 +1,7 @@
 PMT-Portable
 ============
 
-First attempt at a portable PMT on a stick.
+First attempt at a portable portfolio mapping database on a stick. The idea is to run in conjunction with an offline node/webkit server to act as a desktop applicaiton. 
 
 First go get the latest windows binaries from here: 
 http://www.enterprisedb.com/postgresql-934-binaries-win64?ls=Crossover&type=Crossover
