@@ -8,4 +8,8 @@ http://www.enterprisedb.com/postgresql-934-binaries-win64?ls=Crossover&type=Cros
 
 Go get the latest PostGIS binaries
 http://download.osgeo.org/postgis/windows/pg93/postgis-bundle-pg93x64-setup-2.1.1-1.exe
-And get a USB ready.
+
+Find a USB and copy the postgres binaries on to it.
+install postgis directly on the mounted usb.
+
+Edit the batch script(s) to change the directory and go.
