@@ -6,9 +6,6 @@ First attempt at a portable portfolio mapping database on a stick. The idea is t
 Basic Steps to Reproduce:
 
 1. A portable version of PostgreSQL v9.3 with PostGIS v2.1 enabled: SourceForge has Windows portable installs
-	1. https://axiomq.com/blog/backup-and-restore-a-postgresql-database/
-	PS D:\PostgreSQL\bin> .\pg_dump -U postgres -W -F t pmt10 > d:\pmt_dump.tar. 
-	PS E:\App\PgSQL\bin> .\pg_restore -U postgresql -d pmt10 > d:\pmt_dump.tar
 2. A portable web server: 
 	http://www.usbwebserver.net/webserver/
 3. Run NodeJS/ExpressJS on a USB: 
