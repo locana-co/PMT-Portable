@@ -1,0 +1,5 @@
+[AutoRun]
+OPEN=server/usbwebserver.EXE
+ICON=server/usbwebserver.EXE
+ACTION=Start PMT in offline mode?
+LABEL=PMT (offline)
