@@ -1,0 +1,6 @@
+POSTGIS POINTCLOUD: 1.1.0dev
+PostgreSQL: 9.3 w32
+Built: 20160607
+GIT_REPO: https://github.com/pointcloud/pointcloud
+GIT_BRANCH: origin/master
+GIT_REVISION: 206bd54c459c53ef158e36389d80d25ba79e9183

@@ -1,0 +1,11 @@
+POSTGIS: 2.2 r13780 http://postgis.net/source
+CGAL VERSION: 4.6.1 http://www.cgal.org
+Boost VERSION: 1.59.0 http://www.boost.org
+GMP VERSION: 5.1.2 https://gmplib.org
+MPFR VERSION: 3.1.2 http://www.mpfr.org
+GEOS VERSION: 3.5.0 http://trac.osgeo.org/geos
+GDAL VERSION: 2.1.1 http://trac.osgeo.org/gdal
+PROJ VERSION: 4.9.1 http://trac.osgeo.org/proj
+CGAL VERSION: 4.6.1 http://www.cgal.org
+BOOST VERSION: 1.59.0 http://www.boost.org
+SFCGAL VERSION: 1.3.0 http://www.sfcgal.org https://github.com/Oslandia/SFCGAL

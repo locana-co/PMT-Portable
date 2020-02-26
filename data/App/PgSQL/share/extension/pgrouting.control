@@ -1,0 +1,6 @@
+# pgRouting Extension
+comment = 'pgRouting Extension'
+default_version = '2.3.0'
+relocatable = true
+requires = 'plpgsql'
+requires = 'postgis'

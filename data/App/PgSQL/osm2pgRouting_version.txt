@@ -1,0 +1,5 @@
+osm2pgRouting http://pgrouting.org : 2.1.0. 098f4a705574ec4bc49aabaa878b79739260a5ac
+PostgreSQL http://www.postgresql.org : 9.3 32 gcc481
+BOOST http://www.boost.org : 1.59.0
+EXPAT http://expat.sourceforge.net/ : 2.1.0
+Built: 20160407
