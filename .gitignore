@@ -65,3 +65,6 @@ server/root
 
 # database files
 data/data
+
+# hidden mac directory attributes file
+.DS_Store

@@ -64,9 +64,9 @@
 224	pg_proc	0	smaller of two
 228	pg_proc	0	round to nearest integer
 229	pg_proc	0	truncate to integer
-2308	pg_proc	0	smallest integer >= value
-2320	pg_proc	0	smallest integer >= value
-2309	pg_proc	0	largest integer <= value
+2308	pg_proc	0	nearest integer >= value
+2320	pg_proc	0	nearest integer >= value
+2309	pg_proc	0	nearest integer <= value
 2310	pg_proc	0	sign of value
 233	pg_proc	0	natural exponential (e^x)
 234	pg_proc	0	natural logarithm
@@ -658,9 +658,9 @@
 1708	pg_proc	0	value rounded to 'scale' of zero
 1709	pg_proc	0	value truncated to 'scale'
 1710	pg_proc	0	value truncated to 'scale' of zero
-1711	pg_proc	0	smallest integer >= value
-2167	pg_proc	0	smallest integer >= value
-1712	pg_proc	0	largest integer <= value
+1711	pg_proc	0	nearest integer >= value
+2167	pg_proc	0	nearest integer >= value
+1712	pg_proc	0	nearest integer <= value
 1728	pg_proc	0	modulus
 1730	pg_proc	0	square root
 1731	pg_proc	0	square root
