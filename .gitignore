@@ -68,3 +68,6 @@ data/data
 
 # hidden mac directory attributes file
 .DS_Store
+
+# nodejs path file
+node/app/etc/npmrc
