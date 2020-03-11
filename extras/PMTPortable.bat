@@ -3,7 +3,7 @@ REM Kicking it old school with some REM statements.
 
 REM set TOOLS_ROOT=%D:
 REM set POSTGRESQL_ROOT=%TOOLS_ROOT%\pgsql
-set POSTGRESQL_ROOT=D:\pgsql
+set POSTGRESQL_ROOT=../data/App/PgSQL/bin
 
 PATH=%POSTGRESQL_ROOT%\bin;%PATH%
  

@@ -1,4 +1,4 @@
-set SOFTWARE_ROOT=D:\pgsql\bin
+set SOFTWARE_ROOT=../data/App/PgSQL/bin
  
 title "pgsql"
  

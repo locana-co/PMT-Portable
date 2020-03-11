@@ -13,5 +13,4 @@ ECHO Note: Please do not close the node command window while application is runn
 PAUSE 
 ECHO Starting Server...
 START ./server/usbwebserver
-ECHO All set, a browser should now open with the application ready to use.
 PAUSE 
