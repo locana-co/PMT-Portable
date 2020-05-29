@@ -9,7 +9,7 @@ Steps to create
       - ``pg_dump -U postgres -W -F eth10 > eth_backup.tar``
    2. Restore database
       1. Double click PMT-Portable/data/PostgreSQLPortable.exe to get portable postgres instance up and running.
-      2. Inside of the command window that opens from previous step, ender the following command to create database.
+      2. Inside of the command window that opens from previous step, enter the following command to create database.
       - ``CREATE DATABASE eth10 OWNER postgres;``
       3. Open a new command line terminal and change directory to PMT-Portable/data/App/PgSQL/bin.
       4. Enter following command to restore database
