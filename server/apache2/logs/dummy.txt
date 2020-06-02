@@ -1,0 +1,1 @@
+dummy file to ensure logs folder exists for usb web server to work
