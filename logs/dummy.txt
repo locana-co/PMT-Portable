@@ -1,0 +1,1 @@
+dummpy file to create a logs folder, requirement for usbwebserver to work
